@@ -8,18 +8,20 @@ body{
     text-align:center;
     color:black;
     font-size:medium;
-    font-family;
-    font-style:;    
+    font-family:'Times New Roman', Times, serif;
+    font-style:normal;    
 
 }
 
-h1 {font-size: 200%;
+h1{font-size: 200%;
+    
+}
+h2{font-size: 200%;
     
 }
 
-h2{font-size: 150%;
-    text-indent:none;
-    
+div{font-size: 150%;
+   
 }
 
 
@@ -74,13 +76,12 @@ padding:0%;
     padding:5%;
 }
 
-#box6{
+div.box6{
     margin:auto;
     padding:5%;
 }
 
-input {
-       }
+
        
        button:after {
         background-clip: padding-box;
@@ -97,7 +98,7 @@ input {
         z-index: -1;
        }
        
-       button:main, button:focus {
+       button:focus {
         user-select: auto;
        }
        
@@ -118,7 +119,6 @@ input {
        }
 
        button{
-        appearance: button;
         background-color: #1899D6;
         border: solid transparent;
         border-radius: 16px;
@@ -161,7 +161,7 @@ input {
         z-index: -1;
        }
        
-       button:main, button:focus {
+       button:focus {
         user-select: auto;
        }
        
@@ -180,6 +180,35 @@ input {
        button:active {
         padding-bottom: 10px;
        }
+
+#botaoacionarjs{
+        
+        background-color: #1899D6;
+        border: solid transparent;
+        border-radius: 16px;
+        border-width: 0 0 4px;
+        box-sizing: border-box;
+        color: #FFFFFF;
+        cursor: pointer;
+        display: inline-block;
+        font-size: 15px;
+        font-weight: 700;
+        letter-spacing: .8px;
+        line-height: 20px;
+        margin: 0;
+        outline: none;
+        overflow: visible;
+        padding: 13px 19px;
+        text-align: center;
+        text-transform: uppercase;
+        touch-action: manipulation;
+        transform: translateZ(0);
+        transition: filter .2s;
+        user-select: none;
+        vertical-align: middle;
+        white-space: nowrap;
+}
+
 
 a{
     text-decoration:none;
