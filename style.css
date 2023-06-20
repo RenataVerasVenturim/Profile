@@ -70,6 +70,7 @@ padding:0%;
     
     margin:0 auto;
     padding:2%;
+    
 }
 #box5{    
     margin:0 auto;
@@ -213,4 +214,9 @@ div.box6{
 a{
     text-decoration:none;
     color:#FFF;
+}
+
+footer{
+    font-size: small;
+    color:white;
 }
