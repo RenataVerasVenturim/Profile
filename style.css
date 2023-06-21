@@ -217,8 +217,24 @@ a{
     text-decoration:none;
     color:#FFF;
 }
+#Certificados{
+    color:rgb(158, 21, 212);
+}
 
 footer{
     font-size: small;
     color:black;
+}
+
+#t_certificados{
+    font-size: 700%;
+}
+
+li{
+    font-size: 300%;
+
+}
+ul{
+    font-size: 300%;
+
 }
