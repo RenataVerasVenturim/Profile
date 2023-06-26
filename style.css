@@ -214,6 +214,10 @@ div.box6{
         user-select: none;
         vertical-align: middle;
         white-space: nowrap;
+        
+}
+#botaoacionarjs:hover{
+    background-color:#60b1d6;
 }
 
 

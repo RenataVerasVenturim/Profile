@@ -10,7 +10,11 @@
     <body>
         
         <header>
-        <h1 id="box1"><img src="foto.png" alt="Renata Veras Venturim" height="250px" width="250px"></h1>
+        <h1 id="box1">
+            <picture>
+                <source media="(max-width:750px)" srcset="foto.png" type="image/png">
+                <img src="fotom.png" alt="Renata Veras Venturim"></h1>
+            </picture>
 
         <h2 id="box2">Hello, Renata here!
             <br> I´m developer student!
@@ -19,7 +23,7 @@
         <br>
 
         <main>
-        <div id="box3"><b>Languages:</b>
+        <div id="box3"><b>Languages and Tools:</b>
             <br>
             <br>
            
@@ -53,7 +57,7 @@
         </div>
         
         <div id="box7">
-            <button onclick="window.location.href='Certificados/index2.html'">Certificações</button>
+            <button onclick="window.location.href='Certificados/index2.html'">Certifications</button>
         </div>
 
         <div id="box6">
@@ -62,7 +66,7 @@
             
             <br>
             <input id="caixadetexto" name="caixadetexto" type="text" placeholder="Em construção"> 
-            <p><input id="botaoacionarjs" type="button" onclick="EnviarEmail()" value="ENVIAR"></p>
+            <p><input id="botaoacionarjs" type="button" onclick="EnviarEmail()" value="SEND"></p>
             </form>
         </div>
        
