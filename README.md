@@ -1,11 +1,14 @@
-<h1><b>Profile</b></h1>
-<img src="https://github.com/RenataVerasVenturim/Profile/assets/129551549/0510f1bd-35f6-4ec3-a60d-000c6196af97"></img>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">  
+    </head>
+    <body>
+
+<h1 align="center"><strong>Renata´s profile</strong></h1>
 
 
+<p align="center"><a href="https://renataverasventurim.github.io/Profile/"><ens>Click here to visit the profile</ens></a></p>
 
-<a href="https://renataverasventurim.github.io/Profile/">Click here to visit the profile</a>
-  
-  
- 
- 
- 
+<p align="center"><img align="center" src="https://github.com/RenataVerasVenturim/Profile/assets/129551549/c66cb052-ba78-428a-8aae-ec043560aa7d">
